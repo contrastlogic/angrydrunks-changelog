@@ -13,3 +13,6 @@ This document will be continuously updated based on the changes during developme
 6. resolved background parallax dragging issue when zoomed in
 7. resolved issue of reappearing vehicle damage
 8. resolved issue of disappearing projectile when hitting jail cells after removing hinges
+
+####Known Issues
+1. In-app purchases and earned coin algorithm are not functioning as intented. This issue is known and is being worked on.
