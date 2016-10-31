@@ -3,6 +3,16 @@
 This document will be continuously updated based on the changes during development. Since the App Store listing page limits the amount of text allowed, and since the updates need to specify exactly what's new... this document will list that out.
 
 ---
+## 10/31/16
+1. repositioned ogre after swat truck destruction on esse levels
+2. traffic light animation updated to remove light portion after destruction
+3. enabled tgone speed up projectile
+4. resolved issue of cops not clearing after large obstacles knocked down
+5. added sound 'tap' for vignettes
+6. added support for dual throwing characters (rounds 36+ are remain locked - levels are not fully set up yet)
+7. updated main audio file to use a different format instead of mp3. the audio file properly loops in the simulator but wav files apprently are not compatible with android phones so the theme song will not play. need to find a new solution.
+
+---
 ## 10/20/16
 1. updated bouncing issue on car and some cop heads (issue may arise elsewhere, but the fix is now easy)
 2. updated audio controls
