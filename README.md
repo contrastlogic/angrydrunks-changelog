@@ -3,6 +3,16 @@
 This document will be continuously updated based on the changes during development. Since the App Store listing page limits the amount of text allowed, and since the updates need to specify exactly what's new... this document will list that out.
 
 ---
+## 11/15/16
+1. updated text on make it interesting screen
+2. updated reload text on fail screen
+3. updated buttons for mii
+4. respositioned all characters on all rounds
+5. increased difficulty on multiples of 5 rounds
+6. found issue with marauder keg destroying jail
+7. joe likes figs
+
+---
 ## 10/31/16
 1. repositioned ogre after swat truck destruction on esse levels
 2. traffic light animation updated to remove light portion after destruction
