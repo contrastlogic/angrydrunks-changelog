@@ -3,6 +3,18 @@
 This document will be continuously updated based on the changes during development. Since the App Store listing page limits the amount of text allowed, and since the updates need to specify exactly what's new... this document will list that out.
 
 ---
+## 11/19/16
+1. text on mii screen says "no wooden nickel" instead of ogre coin when none are present
+2. scoring algorithm should correctly display beers/score/wooden nickels, 1 wooden nickel will be awarded after 24 beers are earned
+3. KNOWN ISSUE: after purchasing a wooden nickel the score display on the make it interesting screen will not update. This issue is a communication error between the purchases controller and the display, only affecting this screen. The purchase will go through.
+4. Main theme song loops (kinda) - switched to an Android only audio file, will need to resolve on iPhone when ready
+5. Alert notice added for back button
+6. throwing sounds updated for each character
+7. fixed bounce issue again (hopefully)
+
+*If it's not listed here, it's still a work in progress*
+
+---
 ## 11/15/16
 1. updated text on make it interesting screen
 2. updated reload text on fail screen
