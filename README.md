@@ -3,6 +3,20 @@
 This document will be continuously updated based on the changes during development. Since the App Store listing page limits the amount of text allowed, and since the updates need to specify exactly what's new... this document will list that out.
 
 ---
+## 12/01/16
+1. exit screen UI updated to match game... text is generic, TBD
+2. scoring updates to prevent extra wooden nickels from appearing after making it interesting and winning
+3. added walking do to round 31 as demo, will need to resolve proper placement
+4. throwing sounds have been corrected
+5. background music plays throughout... pause screen has mute. KNOWN ISSUE: background song will drop out after complete/fail screens - resolution to come in next update
+6. projectile is now in front of objects
+7. obstacles (garbage can, tires, cactus, construction barell) have been resized to be larger
+8. resolve issue with jail scene clearing too soon
+9. added wagon cop legs, also added additional fake targets to wagon jail (additional jails will be updated next update)
+10. updated levels with cops in motion... jail scenes will have one staionary cop. Any of the moving riot cops can be updated to be a stationary or moving target
+
+
+---
 ## 11/19/16
 1. text on mii screen says "no wooden nickel" instead of ogre coin when none are present
 2. scoring algorithm should correctly display beers/score/wooden nickels, 1 wooden nickel will be awarded after 24 beers are earned
