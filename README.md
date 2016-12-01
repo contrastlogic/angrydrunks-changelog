@@ -14,7 +14,7 @@ This document will be continuously updated based on the changes during developme
 8. resolve issue with jail scene clearing too soon
 9. added wagon cop legs, also added additional fake targets to wagon jail (additional jails will be updated next update)
 10. updated levels with cops in motion... jail scenes will have one staionary cop. Any of the moving riot cops can be updated to be a stationary or moving target
-
+11. Menu screen Apha text has been changed to show build number... this is build 15
 
 ---
 ## 11/19/16
