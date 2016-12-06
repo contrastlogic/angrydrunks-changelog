@@ -3,6 +3,17 @@
 This document will be continuously updated based on the changes during development. Since the App Store listing page limits the amount of text allowed, and since the updates need to specify exactly what's new... this document will list that out.
 
 ---
+## 12/06/16
+1. added alternate dog with dog yelp sound on 31/32
+2. resolved issue with bikeCop on jail level - this may happen with other rounds where an opponent is on screen but not included in the official hit targets. Fortunatly, it's an easy fix.
+3. issue with the wooden nickel is resolved. again. for good this time... issue was with a wayward variable dealing with saving to file... not the algorithm.
+4. round multiples of 5, earned beers are displayed again
+5. intro vignette stops bg music and starts when done
+6. bg music stops on round complete/fail continues during gameplay
+7. odd bg shadow around throwing character removed
+8. added support for upgrade characters - coming next update ;)
+
+---
 ## 12/01/16
 1. exit screen UI updated to match game... text is generic, TBD
 2. scoring updates to prevent extra wooden nickels from appearing after making it interesting and winning
