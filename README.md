@@ -2,6 +2,13 @@
 
 This document will be continuously updated based on the changes during development. Since the App Store listing page limits the amount of text allowed, and since the updates need to specify exactly what's new... this document will list that out.
 
+## 12/16/16
+1. Esse projectile behavior
+2. upgrade menus for mountain man and motorcyle mama have been added... they are not connected to the store yet. FYI - this is a work in progress, positioning and projectile behaivor are not 100%
+3. removed audio error
+4. swapped projectile icons for a projectile counter
+5. reference the spreadsheet
+
 ---
 ## 12/06/16
 1. added alternate dog with dog yelp sound on 31/32
